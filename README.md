@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm 승현
 
+- 🌱 I’m currently learning ...
+
+
 <!--
 **ksh0403/ksh0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
