@@ -2,6 +2,9 @@
 
 - 🌱 I’m currently learning ...
 - 🌱 I’m interested in ...
+  
+- ⚡ Fun fact: ...
+
 
 ✨ _special_ ✨
 
