@@ -1,5 +1,7 @@
-<div align=center>
 ### Hi there 👋 I'm 승현
+
+<div align=center>
+
 
 - 🌱 I’m currently learning ...
 - 🌱 I’m interested in ...
