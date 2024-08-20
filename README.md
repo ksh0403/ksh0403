@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi there&fontSize=90" />
+
 ### Hi there 👋 I'm 승현
 
 <div align=center>
