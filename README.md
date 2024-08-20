@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=200&section=header&text=Hi%20there👋%20I'm%20승현&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=250&section=header&text=Hi%20there👋%20I'm%20승현&fontSize=50" />
 
 <div align=center>
 
