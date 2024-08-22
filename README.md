@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=250&section=header&text=Hi%20there👋%20I'm%20승현&fontSize=50" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=250&section=header&text=Hi%20there%20👋&desc=I'm%20승현&fontSize=50&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
+
 
 <div align=center>
 
