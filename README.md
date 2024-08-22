@@ -1,16 +1,10 @@
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=250&section=header&text=Good%20to%20see%20you%20🤍&desc=I'm%20승현&fontSize=50&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
-
 
 <div align=center>
 <h3 style="color:#FFE3EE;">Hi there👋🏻 I’m 승현.</h3>
 <p style="color:#FFE3EE;">I am passionate about development and primarily work with Java.</p>
 <p style="color:#FFE3EE;">In this repository, I share my projects and learnings.</p>
 <p style="color:#FFE3EE;">I look forward to growing together!</p>
-
-
-
-
 
 <br>
 
@@ -20,16 +14,7 @@
 
 <br>
 
-[![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com) 
-
-
-
-
-
-
-
-
-
+[![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh0403)](https://github.com/anuraghazra/github-readme-stats)
 
