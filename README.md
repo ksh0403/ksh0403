@@ -8,20 +8,15 @@
 
 <br>
 
-### 🌱 I’m currently learning ...
-### 🌱 I’m interested in ...
-### ⚡ Fun fact: ...
-
-<br>
-
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh0403)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0403)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
-### 🚀 Stacks<br>
+<br>
+
+<h3 style="color:#FFE3EE;">🚀 Stacks</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -31,10 +26,12 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
-### ⚡ Database<br>
+<br>
+
+<h3 style="color:#FFE3EE;">⚡ Databases</h3>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-
+</div>
 
 <!--
 **ksh0403/ksh0403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
