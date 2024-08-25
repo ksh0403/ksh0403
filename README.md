@@ -1,12 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFE3EE&height=250&section=header&text=Good%20to%20see%20you%20🤍&desc=I'm%20승현&fontSize=50&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e9d8d4&height=250&section=header&text=Good%20to%20see%20you%20🤍&desc=I'm%20승현&fontSize=50&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn&fontColor=9c3846)
 
 <div align=center>
-<h3 style="color:#FFE3EE;">Hi there👋🏻 I’m 승현.</h3>
-<p style="color:#FFE3EE;">I am passionate about development and primarily work with Java.</p>
-<p style="color:#FFE3EE;">In this repository, I share my projects and learnings.</p>
-<p style="color:#FFE3EE;">I look forward to growing together!</p>
-
+<p>$\huge{\rm{\color{#d6b2b3}Hi\ there👋\ I’m\ 승현.}}$</p>
+<p>$\bf{\rm{\color{#d6b2b3}I\ am\ passionate\ about\ development\ and\ primarily\ work\ with\ Java.}}$</p>
+<p>$\bf{\rm{\color{#d6b2b3}In\ this\ repository,\ I\ share\ my\ projects\ and\ learnings.}}$</p>
+<p>$\bf{\rm{\color{#d6b2b3}I\ look\ forward\ to\ growing\ together!}}$</p>
 <br>
+
+<p>$\huge{\rm{\color{#9c3846}Hi\ there👋\ I’m\ 승현.}}$</p>
+<p>$\bf{\rm{\color{#9c3846}I\ am\ passionate\ about\ development\ and\ primarily\ work\ with\ Java.}}$</p>
+<p>$\bf{\rm{\color{#9c3846}In\ this\ repository,\ I\ share\ my\ projects\ and\ learnings.}}$</p>
+<p>$\bf{\rm{\color{#9c3846}I\ look\ forward\ to\ growing\ together!}}$</p>
+<br>
+<br>
+
 
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 
