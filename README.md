@@ -18,8 +18,8 @@
 
 <h3 style="color:#FFE3EE;">👩🏻‍💻 Currently in progress</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee&theme=rose)](https://github.com/ksh0403)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Algorithm&theme=rose)](https://github.com/ksh0403)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee&theme=rose)](https://github.com/ksh0403/Profee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Algorithm&theme=rose)](https://github.com/ksh0403/Algorithm)
 <br>
 
 <h3 style="color:#FFE3EE;">🚀 Stacks</h3>
