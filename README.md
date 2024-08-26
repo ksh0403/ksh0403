@@ -13,8 +13,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh0403&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0403&show_icons=true&theme=rose)
+<br>
+<br>
+
+<h3 style="color:#FFE3EE;">👩🏻‍💻 Currently in progress</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee&theme=rose)](https://github.com/ksh0403)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Algorithm&theme=rose)](https://github.com/ksh0403)
 <br>
 
 <h3 style="color:#FFE3EE;">🚀 Stacks</h3>
