@@ -6,14 +6,7 @@
 <p>$\bf{\rm{\color{#d6b2b3}In\ this\ repository,\ I\ share\ my\ projects\ and\ learnings.}}$</p>
 <p>$\bf{\rm{\color{#d6b2b3}I\ look\ forward\ to\ growing\ together!}}$</p>
 <br>
-
-<p>$\huge{\rm{\color{#9c3846}Hi\ there👋\ I’m\ 승현.}}$</p>
-<p>$\bf{\rm{\color{#9c3846}I\ am\ passionate\ about\ development\ and\ primarily\ work\ with\ Java.}}$</p>
-<p>$\bf{\rm{\color{#9c3846}In\ this\ repository,\ I\ share\ my\ projects\ and\ learnings.}}$</p>
-<p>$\bf{\rm{\color{#9c3846}I\ look\ forward\ to\ growing\ together!}}$</p>
 <br>
-<br>
-
 
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 
@@ -22,7 +15,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0403&show_icons=true&theme=rose)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee&theme=rose)](https://github.com/ksh0403)
-
 <br>
 
 <h3 style="color:#FFE3EE;">🚀 Stacks</h3>
@@ -34,7 +26,6 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-
 <br>
 
 <h3 style="color:#FFE3EE;">⚡ Databases</h3>
