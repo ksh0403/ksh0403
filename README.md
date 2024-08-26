@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e9d8d4&height=250&section=header&text=Good%20to%20see%20you%20🤍&desc=I'm%20승현&fontSize=50&fontAlignY=35&descSize=25&descAlignY=55&animation=fadeIn&fontColor=9c3846)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e9d8d4&height=250&section=header&text=Good%20to%20see%20you%20🤍&fontSize=50&fontAlignY=35&&animation=fadeIn&fontColor=9c3846)
 
 <div align=center>
 <p>$\huge{\rm{\color{#d6b2b3}Hi\ there👋\ I’m\ 승현.}}$</p>
@@ -17,7 +17,7 @@
 
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh0403)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksh0403&theme=rose)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ksh0403&show_icons=true&theme=rose)
 
