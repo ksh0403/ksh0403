@@ -14,7 +14,7 @@
 
 <h3 style="color:#FFE3EE;">👩🏻‍💻 Currently in progress</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee&theme=rose)](https://github.com/ksh0403/Profee)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee_Server&theme=rose)](https://github.com/ksh0403/Profee_Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ksh0403&repo=Profee_Client&theme=rose)](https://github.com/ksh0403/Profee_Client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnyPals&repo=SP_Server&theme=rose)](https://github.com/ksh0403/SP_Server)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SpinnyPals&repo=SP_Client&theme=rose)](https://github.com/ksh0403/SP_Client)
