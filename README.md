@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=e9d8d4&height=250&section=header&text=Good%20to%20see%20you%20🤍&fontSize=50&fontAlignY=35&&animation=fadeIn&fontColor=9c3846)
 
+<br/>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ksh0403}?pet-id=3" width="1000" height="120"/>
+</a>
+
 <div align=center>
 <p>$\huge{\rm{\color{#d6b2b3}Hi\ there👋\ I’m\ 승현.}}$</p>
 <p>$\bf{\rm{\color{#d6b2b3}I\ am\ passionate\ about\ development\ and\ primarily\ work\ with\ Java.}}$</p>
