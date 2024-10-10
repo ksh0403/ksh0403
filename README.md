@@ -5,6 +5,7 @@
   <img src="https://render.gitanimals.org/lines/{ksh0403}?pet-id=3" width="1000" height="120"/>
 </a>
 
+
 <div align=center>
 <p>$\huge{\rm{\color{#d6b2b3}Hi\ there👋\ I’m\ 승현.}}$</p>
 <p>$\bf{\rm{\color{#d6b2b3}I\ am\ passionate\ about\ development\ and\ primarily\ work\ with\ Java.}}$</p>
