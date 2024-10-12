@@ -4,7 +4,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{ksh0403}?pet-id=3" width="1000" height="120"/>
 </a>
-<br>
 
 <div align=center>
 <p>$\huge{\rm{\color{#d6b2b3}Hi\ there👋\ I’m\ 승현.}}$</p>
