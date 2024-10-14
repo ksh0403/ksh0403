@@ -15,7 +15,7 @@
 
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 <br>
-<br>
+
 
 <h3 style="color:#FFE3EE;">👩🏻‍💻 Currently in progress</h3>
 
