@@ -12,6 +12,7 @@
 <p>$\bf{\rm{\color{#d6b2b3}I\ look\ forward\ to\ growing\ together!}}$</p>
 <br>
 <br>
+<br>
 
 [![Tidal](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tidal&logoColor=white)](https://seung-yo.tistory.com)
 <br>
